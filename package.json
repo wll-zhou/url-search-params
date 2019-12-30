@@ -1,0 +1,23 @@
+{
+  "name": "url-search-params-wll",
+  "version": "1.0.0",
+  "description": "a polyfill for URLSearchParams, use ES6 features(generator, Class)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wll-zhou/url-search-params.git"
+  },
+  "keywords": [
+    "url-search-params",
+    "URLSearchParams"
+  ],
+  "author": "wll-zhou@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wll-zhou/url-search-params/issues"
+  },
+  "homepage": "https://github.com/wll-zhou/url-search-params#readme"
+}
